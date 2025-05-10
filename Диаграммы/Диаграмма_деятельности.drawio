@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36" version="27.0.3">
+  <diagram name="Страница — 1" id="UXgWJFZhLzzy9HBtTdlR">
+    <mxGraphModel dx="994" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TDtISpapxkmjZny8iCPO-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564.5" y="174" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-2" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="TDtISpapxkmjZny8iCPO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564.5" y="424" as="sourcePoint" />
+            <mxPoint x="584.5" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-4" value="Главное меню" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="524.5" y="254" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-5" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="TDtISpapxkmjZny8iCPO-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564.5" y="424" as="sourcePoint" />
+            <mxPoint x="584.5" y="334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-7" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="342" y="334" as="sourcePoint" />
+            <mxPoint x="827" y="334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-8" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464.5" y="334" as="sourcePoint" />
+            <mxPoint x="464.5" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-9" value="Сборник песен" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="374" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-10" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="TDtISpapxkmjZny8iCPO-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564.5" y="424" as="sourcePoint" />
+            <mxPoint x="464.5" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-12" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="384.5" y="454" as="sourcePoint" />
+            <mxPoint x="544.5" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-13" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" edge="1" parent="1" target="TDtISpapxkmjZny8iCPO-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464.5" y="454" as="sourcePoint" />
+            <mxPoint x="464.5" y="494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-14" value="Прослушивание песен" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="494" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-15" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="704.5" y="334" as="sourcePoint" />
+            <mxPoint x="704.5" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-16" value="Музыкальный диктант" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="644.5" y="374" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-17" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="TDtISpapxkmjZny8iCPO-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="804.5" y="424" as="sourcePoint" />
+            <mxPoint x="704.5" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-18" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="624.5" y="454" as="sourcePoint" />
+            <mxPoint x="784.5" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-19" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" edge="1" parent="1" target="TDtISpapxkmjZny8iCPO-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="704.5" y="454" as="sourcePoint" />
+            <mxPoint x="704.5" y="494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-20" value="Прохождение музыкального диктанта" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="644.5" y="494" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-21" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="342" y="574" as="sourcePoint" />
+            <mxPoint x="827" y="574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-22" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="TDtISpapxkmjZny8iCPO-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564.5" y="624" as="sourcePoint" />
+            <mxPoint x="464.5" y="574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-23" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="TDtISpapxkmjZny8iCPO-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564.5" y="624" as="sourcePoint" />
+            <mxPoint x="704.5" y="574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TDtISpapxkmjZny8iCPO-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="584.5" y="574" as="sourcePoint" />
+            <mxPoint x="584.5" y="614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDtISpapxkmjZny8iCPO-25" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="564.5" y="614" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
